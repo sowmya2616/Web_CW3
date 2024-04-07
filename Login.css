@@ -1,0 +1,57 @@
+.abc {
+    color: blueviolet;
+}
+
+.Icards {
+    margin-right: 10px;
+}
+
+.Itech {
+    margin-right: 10px;
+}
+
+.Icall {
+    margin-right: 10px;
+}
+
+.btn {
+    font-size: 20px;
+}
+
+.pw:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.secondDiv {
+    text-align: center;
+    height: 10vh;
+    background-color: rgba(255, 0, 0, 0.589);
+    margin-top: 10vh;
+    padding-top: 2vh;
+}
+
+.thirdDiv {
+    text-align: center;
+    height: 18vh;
+    background-color: rgba(212, 0, 255, 0.479);
+}
+form {
+    border: 2px solid grey;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.385);
+}
+
+.row{
+    margin: 10px;
+}
+.ownNav{
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 10%;
+    font-size: 35px;
+    padding-top: 2vh;
+}
